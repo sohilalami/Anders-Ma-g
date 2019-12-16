@@ -1,0 +1,31 @@
+#Layer_1 {
+  text-align: center;
+  max-height: 70vh;
+}
+.cls-1 {
+  stroke: #fff;
+}
+.cls-1,
+.cls-4 {
+  
+}
+.cls-2,
+.cls-4 {
+  fill: #fff;
+}
+.cls-3 {
+  fill: #ed1e79;
+}
+.cls-4,
+.cls-5 {
+  stroke:rgb(39, 150, 16);
+}
+.cls-5 {
+  fill: none;
+  stroke-width: 2px;
+}
+.cls-6 {
+  fill: rgb(39, 150, 16);
+  stroke-width: 30px;
+}
+
